@@ -1,4 +1,4 @@
-# BENJAMIN PEINHARDT
+# Benjamin Peinhardt
 
 <!-- Contact Information -->
 
