@@ -4,6 +4,8 @@
 
 [Email] | [Github] | [LinkedIn]
 
+> "Listening, Testing, Coding, Designing. That's all there is to software. Anyone who tells you different is selling something." ~ Kent Beck
+
 <!-- Current Position -->
 
 ### Current Position
