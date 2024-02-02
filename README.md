@@ -15,9 +15,10 @@
 **Rust Engineer**  
 Technologies: **Rust**, Axum, Leptos, **AWS**, Lambda, DynamoDB, API Gateway, OpenSearch
 
-- Work on an async, distributed team of engineers from around the globe[^1].
-- Take ownership of projects from conception to deployment
-- Leverage Rust and AWS to develop scalable, high-performance APIs 
+- Work on an async, distributed team of engineers from around the globe[^1]
+- Take ownership of projects from conception to deployment in a self driven work environment
+- Leverage Rust and AWS to develop scalable, high-performance APIs and Web Apps 
+- Prioritize internal tools and workflows that benefit the team at large[^2]
 
 ### Open Source
 
@@ -37,11 +38,12 @@ Technologies: **TypeScript** Angular, Vue, **PHP**, Laravel
 Technologies: **Java**, Selenium, RestAssured, Cucumber
 
 **Production Specialist**  
-Technologies: **Html**, Excel, Delimit **Python**
+Technologies: **Html**, Excel, Delimit, **Python**
 
 <!-- Footnotes -->
 
 [^1]: Brazil, China, India, Denmark, Australia, to name a few
+[^2]: Want to discuss documentation? Got a few hours?
 
 <!-- Links -->
 
